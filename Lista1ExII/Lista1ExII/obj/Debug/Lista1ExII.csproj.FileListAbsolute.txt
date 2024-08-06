@@ -1,0 +1,7 @@
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\bin\Debug\Lista1ExII.exe.config
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\bin\Debug\Lista1ExII.exe
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\bin\Debug\Lista1ExII.pdb
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\obj\Debug\Lista1ExII.csproj.AssemblyReference.cache
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\obj\Debug\Lista1ExII.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\obj\Debug\Lista1ExII.exe
+C:\Users\aluno-cesul\Documents\C#\Lista1ExII\Lista1ExII\obj\Debug\Lista1ExII.pdb
